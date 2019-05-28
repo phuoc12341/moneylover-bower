@@ -1,0 +1,14 @@
+{
+  "name": "moneylover-bower",
+  "description": "Bower for MoneyLover",
+  "main": "/",
+  "homepage": "https://github.com/phuoc12341/moneylover-bower.git",
+  "authors": [
+    "Phuc Kieu <phuoc132411@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "README.md"
+  ],
+  "private": true
+}
